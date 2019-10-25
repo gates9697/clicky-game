@@ -3,25 +3,25 @@
     {
       "id": 1,
       "name": "Taz",
-      "image": "https://toppng.com/public/uploads/preview/baby-looney-tunes-characters-baby-looney-tunes-cartoon-baby-looney-tunes-characters-11563057029d1irt3jhwi.png",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/1200px-Taz-Looney_Tunes.svg.png",
       "count": 0
     },
     {
       "id": 2,
       "name": "Daffy Duck",
-      "image": "https://www.pngfind.com/pngs/m/125-1259078_daffy-duck-baby-looney-tunes-hd-png-download.png",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/1200px-Daffy_Duck.svg.png",
       "count": 0
     },
     {
       "id": 3,
       "name": "Sylvester",
-      "image": "https://www.pinclipart.com/picdir/middle/3-32989_looney-tunes-bebes-png-baby-looney-tunes-clipart.png",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Sylvester_the_Cat.svg/1200px-Sylvester_the_Cat.svg.png",
       "count": 0
     },
     {
       "id": 4,
       "name": "Bugs Bunny",
-      "image": "https://i.pinimg.com/originals/d1/46/c8/d146c84f1baf60bf31a773e3b2a0ee7e.png",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/1200px-Bugs_Bunny.svg.png",
       "count": 0
     },
     {
@@ -33,19 +33,19 @@
     {
       "id": 6,
       "name": "Tweety Bird",
-      "image": "https://vignette.wikia.nocookie.net/warner-bros-entertainment/images/8/8f/Tweety_Bird.png/revision/latest?cb=20161115171507",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Tweety.svg/1200px-Tweety.svg.png",
       "count": 0
     },
     {
       "id": 7,
       "name": "Melissa Duck",
-      "image": "https://vignette.wikia.nocookie.net/babylooneytunes/images/c/c7/BabyMelissaDuckInfoboxPic.png/revision/latest?cb=20190406235301",
+      "image": "https://vignette.wikia.nocookie.net/looneytunes/images/a/a8/Tina.png/revision/latest?cb=20140723040353",
       "count": 0
     },
     {
       "id": 8,
       "name": "Roadrunner",
-      "image": "https://p7.hiclipart.com/preview/512/538/568/wile-e-coyote-and-the-road-runner-plymouth-road-runner-cartoon-animation-looney-tunes-cowboy-pictures-cartoons.jpg",
+      "image": "https://vignette.wikia.nocookie.net/looneytunes/images/1/13/Looneytunes-roadrunner.gif/revision/latest?cb=20130303015934",
       "count": 0
     },
     {
@@ -57,7 +57,7 @@
     {
       "id": 10,
       "name": "Coyote",
-      "image": "https://vignette.wikia.nocookie.net/baby-looney-tunes-fanon/images/c/c6/Baby_Wile_E_Coyote_300.gif/revision/latest/scale-to-width-down/180?cb=20130110021803",
+      "image": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif/revision/latest?cb=20060219181853",
       "count": 0
     },
     {
